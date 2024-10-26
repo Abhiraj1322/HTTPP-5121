@@ -1,0 +1,69 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    color: black;
+    text-shadow: 1px 1px 1px #000;
+    
+}
+h2{
+    color: black;
+    text-shadow: 1px 1px 1px #000;
+    
+}
+
+main{
+    background-color: #C1E2A4;
+    padding: 5px;
+    
+
+}
+
+a:hover{
+    color:red
+}
+.link{
+    background-color: #FDFAD9;
+    padding: 5px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+ul{
+    background-color:#FDFAD9;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+#author{
+    background-color: #FDFAD9;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+#comments{
+    background-color: #FDFAD9;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+}
+#footer{
+    background-color:  #C1E2A4;
+    padding: 5px;
+    color:black;}
+
+    button{
+        padding: 5px;
+        color: white;
+        background-color: red;
+    }
+    form{
+        background-color: #FDFAD9;
+    padding: 5px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+    }
+    label{
+        color: black;
+        text-shadow: 1px 1px 1px #000;
+    }
+    #email{
+        padding: 10px;
+    }
+    button:hover{
+        color: black;
+    }

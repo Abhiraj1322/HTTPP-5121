@@ -1,0 +1,133 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color:black
+}
+
+/* Header */
+header {
+    background-color:#0D92F4;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+/* Main content layout using flexbox */
+.main-content {
+
+    margin: 20px 0;
+}
+
+main {
+    flex: 3;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.sidebar-box {
+    margin-bottom: 30px;
+}
+
+/* Images inside articles */
+.blog-image {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+
+/* Comments section */
+.comments {
+    background-color: #d4d4d4;
+    padding: 20px;
+    margin-top: 20px;
+}
+form{
+    width: 50%;
+}
+
+.comments form {
+    display: flex;
+    flex-direction: column;
+}
+.rec-nav a{
+    color: white;
+}
+.comments input,
+.comments textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.comments button {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* Styling links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+article{
+    display: flex;
+    gap: 30px;
+}
+.article-item{
+    width: 50%;
+}
+.article-item img{
+    
+    border-radius: 20px;
+}
+ .article-item img{
+    height: 400px;
+    width: 400px;
+  
+    
+}
