@@ -18,7 +18,7 @@ For more resources on HTML and CSS, visit [W3Schools HTML & CSS](https://www.w3s
 
 ## Images
 
-![Responsive Web Design](./responsive_web_design.jpg)
+![Responsive Web Design](./md_5a57b98c83454.jpg)
 
 ***Important Notice:*** This repository contains assignments and projects related to web design. Mastering HTML and CSS is essential for creating effective web interfaces.
 
